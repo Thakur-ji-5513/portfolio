@@ -97,8 +97,12 @@ body {
     color: var(--text-primary);
     font-size: 1.1rem;
     line-height: 1.6;
-    text-align: center;
+    text-align: left;
     box-shadow: 0 0 15px var(--shadow-glow);
+}
+.lines2{
+    text-decoration: dotted;
+    padding: 10px;
 }
 
 .cards-container {
