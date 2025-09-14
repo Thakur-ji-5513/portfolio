@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, and contact information.
+This is my personal portfolio website built using HTML, CSS, and JavaScript. I built in as a very mni project while learning vanilla css.
 
 ## 🚀 Live Demo
 
